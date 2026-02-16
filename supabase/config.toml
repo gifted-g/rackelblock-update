@@ -1,0 +1,4 @@
+project_id = "qkmimtbyskaysadcznvq"
+
+[functions.racklerush-track-referral]
+verify_jwt = false
